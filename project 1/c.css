@@ -1,0 +1,7 @@
+.footer-component {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+    overflow: hidden;
+}
+auto
