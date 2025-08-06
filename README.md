@@ -3,7 +3,10 @@
 The **Studio Service Website** is a web-based platform designed to showcase and offer various creative studio services. Whether it's photography, videography, design, or other creative services, the website provides a clean and interactive user experience for both potential clients and studio owners. It includes service descriptions, pricing, booking forms, testimonials, and more. The website is responsive and optimized for a seamless experience across all devices.
 
 ---
+## User Interface
+<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/53438e1c-b57a-49c7-b460-2b953a0a00dc" />
 
+---
 ## Built With
 
 - **HTML** - Structure and content of the website
